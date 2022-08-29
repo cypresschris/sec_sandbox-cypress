@@ -2,7 +2,7 @@ name: Snyk Software Composition Analysis Scan
 # This git workflow leverages Snyk actions to perform a Software Composition 
 # Analysis scan on our Opensource libraries upon Pull Requests to Main & 
 # Develop branches.  We use this control to prevent vulnerable packages 
-# from being introduced into the codebase. 
+# from being introduced into the codebase 
 on:
   pull_request_target:
     types:
