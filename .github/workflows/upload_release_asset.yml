@@ -37,3 +37,4 @@ jobs:
           asset_path: ./SBOM.rpt
           asset_name: SBOM.rpt
           asset_content_type: text/plain
+          
